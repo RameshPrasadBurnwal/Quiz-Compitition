@@ -1,2 +1,3 @@
 Quiz compition app is created by Ramesh Prasad Burnwal
 I will add more features to this app 
+this app is useful for users
